@@ -53,5 +53,5 @@ plt.show()
 
 
 ```markdown
-![Confusion Matrix - Helitron](Results-of-the-internship/Helitron.PNG)
+![Confusion Matrix - Helitron](Helitron.PNG)
 
