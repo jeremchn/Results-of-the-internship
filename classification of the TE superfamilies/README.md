@@ -49,4 +49,9 @@ for i, estimator in enumerate(estimators):
 plt.tight_layout()
 plt.show()
 
-![Description de l'image](C:\Users\chiqu\Desktop\StageMinesParis\Helitron.png)
+
+
+
+```markdown
+![Confusion Matrix - Helitron](./images/Helitron.PNG)
+
