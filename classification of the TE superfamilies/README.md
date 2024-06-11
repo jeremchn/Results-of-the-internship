@@ -45,12 +45,11 @@ for i, estimator in enumerate(estimators):
     plt.title(f"Confusion Matrix - Fold {i+1} Helitron")
     plt.xlabel("Predicted labels")
     plt.ylabel("True labels")
+'''
 
 plt.tight_layout()
 plt.show()
 
 
 
-
-<img width="654" alt="3 genomes, 2 filtres" src="https://github.com/jeremchn/Results-of-the-internship/assets/152181344/1c5e0a6e-e9a8-4aca-86bf-fa56edd253cc">
 <img width="654" alt="3 genomes, 2 filtres" src="https://github.com/jeremchn/Results-of-the-internship/assets/152181344/0eb347a8-fa19-40cf-8582-a615b3f397cd">
