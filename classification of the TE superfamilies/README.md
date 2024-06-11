@@ -49,6 +49,6 @@ for i, estimator in enumerate(estimators):
 plt.tight_layout()
 plt.show()
 
-![Confusion Matrix - Helitron](./Helitron.PNG)
+We can do this model (One VS all) to predict all the superfamilies
 
 
