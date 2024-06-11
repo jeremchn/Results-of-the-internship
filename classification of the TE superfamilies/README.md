@@ -49,8 +49,9 @@ for i, estimator in enumerate(estimators):
 
 plt.tight_layout()
 plt.show()
+```
 
 
 
 
-
+<img width="515" alt="Helitron" src="https://github.com/jeremchn/Results-of-the-internship/assets/152181344/a242cd4d-a343-4423-8017-bcc41f5e1ae6">
