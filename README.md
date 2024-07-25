@@ -18,3 +18,13 @@ Already filtered for pericentromeres and more than 100bp lengths, but not for cl
   * `89_summaries`: for the outputs created from data in `data/89_summaries`
   * `89_blasted`: for the outputs created from data in `data/89_blasted`
   * `89fixedTE_blasted`: for the outputs created from data in `data/89fixedTE_blasted`
+
+* These 3 notebooks have the same structure :
+  * Preprocessing
+  * Filtering our data 
+  * Features Meth divided by Context
+  * Features Start and End transform in length
+  * Classification Model
+  * Regression Model
+    
+  
