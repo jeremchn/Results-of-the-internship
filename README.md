@@ -20,10 +20,10 @@ Already filtered for pericentromeres and more than 100bp lengths, but not for cl
   * `89fixedTE_blasted`: for the outputs created from data in `data/89fixedTE_blasted`
 
 * These 3 notebooks have the same structure :
-  * Preprocessing
-  * Filtering our data 
-  * Features Meth divided by Context
-  * Features Start and End transform in length
+  * Preprocessing : import our datas
+  * Filtering our data : filtering our datas with the 3 filters : filtering short TEs, TEs that are too close to the previous TE and TEs that are in the pericentromeres regions
+  * Features Meth divided by Context : We divided all the features Meth by their Context to have the the rate of methylation
+  * Features Start and End transform in length : The length is a feature more coherent
   * Classification Model
   * Regression Model
     
